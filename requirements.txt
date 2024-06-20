@@ -1,0 +1,13 @@
+flask==1.1.2
+Jinja2
+PyYAML==6.0.1
+streamlit
+mlflow==2.11.3
+openai==1.17.0
+attrs==23.2.0
+click==8.1.7
+cython==3.0.10
+pathlib==1.0.1
+rich==13.7.1
+tenacity==8.2.3
+tiktoken==0.6.0
